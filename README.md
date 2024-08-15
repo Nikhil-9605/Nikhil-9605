@@ -1,14 +1,16 @@
 <h1 align="center">Hi 👋, I'm Nikhil</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-
+<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+400
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nikhil-9605&label=Profile%20views&color=0e75b6&style=flat" alt="nikhil-9605" /> </p>
 
 - 📫 How to reach me **nikhilkarnati0000@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/nikhil karnati" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nikhil karnati" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/nikhilkarnati" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nikhilkarnati" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/nikhil1291" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="nikhil1291" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/nikhilkarnati" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="nikhilkarnati" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
